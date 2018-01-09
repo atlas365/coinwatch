@@ -1,24 +1,8 @@
-# README
+#Coinwatch	
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is meant to give you deeper insights into how your coinbase portfolio is performing
 
-Things you may want to cover:
+v1: manually enter your coin transactions. Coinwatch will show you how your investments are performing at individual investment, coin, and overall portfolio levels
 
-* Ruby version
+v2: Coinwatch will integrate with your Coinbase account so transactions will not have to be entered manually
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
